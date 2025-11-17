@@ -1,15 +1,16 @@
 {
   "signed": {
+    "_type": "targets",
     "spec_version": "1.0.0",
     "version": 1,
-    "expires": "2026-11-17T12:28:46.351324Z",
+    "expires": "2026-11-17T12:42:17.466324Z",
     "targets": {},
     "delegations": null
   },
   "signatures": [
     {
       "keyid": "fac046988225e4e6ad5a5feb647a76527641979a8853a10834285aca07cab59c",
-      "sig": "fee71dae642dabf216b6309453d1ebc01c8cf1e644e21029c3d57445b696037c9bcea60de9900b6d050691e2d583eef346daece779603c7b40260535da93980f"
+      "sig": "3aa9507e3aa859a59419953ad408e697d6844b8983776faa8ee0f721b86bae85b4ec4fa17b205a5bd06fedfa4562a19d146280fac99e1f5a4c984dd569d1590b"
     }
   ]
 }
