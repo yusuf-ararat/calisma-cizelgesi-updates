@@ -3,14 +3,14 @@
     "_type": "targets",
     "spec_version": "1.0.0",
     "version": 1,
-    "expires": "2026-11-17T12:46:19Z",
+    "expires": "2026-11-17T13:55:00Z",
     "targets": {},
     "delegations": null
   },
   "signatures": [
     {
       "keyid": "fac046988225e4e6ad5a5feb647a76527641979a8853a10834285aca07cab59c",
-      "sig": "61a5dcaeb4a6158068c5278b109c6324996519a0a58c551f38ba281b0c82b4be4665ab2665b182cb2e0adfa2ee34235c9d4bca15a83b09f17406a0e64c835803"
+      "sig": "9aa5f6912e667b96b9c4e76dccb940b3bc3ee5c78ae87b4ad978c78d0d5a86232949ded61e25cfb02bf86761435a61a99740978d5e172275d12e7ad5b23d7803"
     }
   ]
 }
