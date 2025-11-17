@@ -7,9 +7,9 @@
     "meta": {
       "targets.json": {
         "hashes": {
-          "sha256": "0000000000000000000000000000000000000000000000000000000000000000"
+          "sha256": "625697e948021c05325850361b4bcf5b5df27b03c65f55c2d2ca4f5746f0dc75"
         },
-        "length": 100,
+        "length": 451,
         "version": 1
       }
     }
@@ -17,7 +17,7 @@
   "signatures": [
     {
       "keyid": "fac046988225e4e6ad5a5feb647a76527641979a8853a10834285aca07cab59c",
-      "sig": "6f76c7870c0dde28310230aeb12fd59bf95e907aecb7d8af4c1b96231de3ae007a762a5754402235407fea06981944cc73ef204a17bde0d2bc892f1055232f04"
+      "sig": "b4b6def2c8812e9d6674c76edab64183a53ba7e05c530ab404e711f1781fc710ab685049b0a4de16e6edc6503b6083d79a279fdb80190a2a1add3b0c1ea7250a"
     }
   ]
 }
