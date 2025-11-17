@@ -1,0 +1,19 @@
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Editor Files
+.vscode/
+.idea/
+
+# Temp Files
+*.tmp
+*.bak
+
+# Private Files
+*.key
+*.pem
+secrets/
+
+# Logs
+*.log
