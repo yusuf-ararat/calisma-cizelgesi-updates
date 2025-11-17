@@ -1,15 +1,10 @@
 {
   "signed": {
-    "_type": "targets",
     "spec_version": "1.0.0",
     "version": 1,
-    "expires": "2025-11-17T12:00:00Z",
-    "targets": {}
+    "expires": "2026-11-17T12:28:46.351324Z",
+    "targets": {},
+    "delegations": null
   },
-  "signatures": [
-    {
-      "keyid": "fac046988225e4e6ad5a5feb647a76527641979a8853a10834285aca07cab59c",
-      "sig": "5f59d753817a795490f10079209e7c898e809d634aa79bd537585c7597bdfbf71de50e88c58a16e913a6e0be8395c925c4b44051d00d31857edcb897ac076b04"
-    }
-  ]
+  "signatures": []
 }

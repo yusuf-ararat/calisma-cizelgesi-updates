@@ -3,7 +3,7 @@
     "_type": "root",
     "spec_version": "1.0.0",
     "version": 1,
-    "expires": "2026-11-17T12:12:16Z",
+    "expires": "2026-11-17T15:23:43Z",
     "keys": {
       "fac046988225e4e6ad5a5feb647a76527641979a8853a10834285aca07cab59c": {
         "keytype": "ed25519",
@@ -45,10 +45,5 @@
     },
     "consistent_snapshot": false
   },
-  "signatures": [
-    {
-      "keyid": "fac046988225e4e6ad5a5feb647a76527641979a8853a10834285aca07cab59c",
-      "sig": "aa3556c4b64bb4f23f208e8c00f0d67bd93c5b6f545c052a563e7e7c5eccf51393bccbd55d16bae51227804f2794479d3ce9cfa0d1921b59728551638f14dd08"
-    }
-  ]
+  "signatures": []
 }
