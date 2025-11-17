@@ -6,5 +6,10 @@
     "targets": {},
     "delegations": null
   },
-  "signatures": []
+  "signatures": [
+    {
+      "keyid": "fac046988225e4e6ad5a5feb647a76527641979a8853a10834285aca07cab59c",
+      "sig": "fee71dae642dabf216b6309453d1ebc01c8cf1e644e21029c3d57445b696037c9bcea60de9900b6d050691e2d583eef346daece779603c7b40260535da93980f"
+    }
+  ]
 }
