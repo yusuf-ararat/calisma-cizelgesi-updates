@@ -3,7 +3,7 @@
     "_type": "snapshot",
     "spec_version": "1.0.0",
     "version": 1,
-    "expires": "2025-12-17T12:42:17.466391Z",
+    "expires": "2025-12-17T12:46:19Z",
     "meta": {
       "targets.json": {
         "hashes": {
@@ -17,7 +17,7 @@
   "signatures": [
     {
       "keyid": "fac046988225e4e6ad5a5feb647a76527641979a8853a10834285aca07cab59c",
-      "sig": "db4f326311bd3823f2a586787f6e85eb59f8cb94382846d83762008ea565c5f1ff8ab96698d734093ff27cf3e258c648288e442094a1cc502140235ab2e90401"
+      "sig": "6f76c7870c0dde28310230aeb12fd59bf95e907aecb7d8af4c1b96231de3ae007a762a5754402235407fea06981944cc73ef204a17bde0d2bc892f1055232f04"
     }
   ]
 }
