@@ -2,15 +2,41 @@
   "signed": {
     "_type": "targets",
     "spec_version": "1.0.0",
-    "version": 1,
-    "expires": "2026-11-17T13:55:00Z",
-    "targets": {},
-    "delegations": null
+    "version": 2,
+    "expires": "2026-11-18T12:22:36Z",
+    "targets": {
+      "PersonelCizelgesi-3.5.0.exe": {
+        "length": 77739128,
+        "hashes": {
+          "sha256": "2009e62ce857d4a3ed406cde7027e4fd481802de83ab1fcbc6cda61cd94cd482"
+        },
+        "custom": {
+          "version": "3.5.0",
+          "github_release_tag": "v3.5.0",
+          "github_release_url": "https://github.com/yusuf-ararat/calisma-cizelgesi-v0/releases/download/v3.5.0/PersonelCizelgesi-3.5.0.exe",
+          "changelog": "Ilk Production Release - Otomatik Guncelleme Sistemi",
+          "uploaded_at": "2025-11-18T12:22:36Z"
+        }
+      },
+      "PersonelCizelgesi-3.6.0.exe": {
+        "length": 77769378,
+        "hashes": {
+          "sha256": "95ac9b94aefbf6365ee721ee013a345ebfb548e4c11b162e083d196d936021eb"
+        },
+        "custom": {
+          "version": "3.6.0",
+          "github_release_tag": "v3.6.0",
+          "github_release_url": "https://github.com/yusuf-ararat/calisma-cizelgesi-v0/releases/download/v3.6.0/PersonelCizelgesi-3.6.0.exe",
+          "changelog": "Test Güncelleme - End-to-End Canlı Test",
+          "uploaded_at": "2025-11-18T14:30:00Z"
+        }
+      }
+    }
   },
   "signatures": [
     {
-      "keyid": "fac046988225e4e6ad5a5feb647a76527641979a8853a10834285aca07cab59c",
-      "sig": "9aa5f6912e667b96b9c4e76dccb940b3bc3ee5c78ae87b4ad978c78d0d5a86232949ded61e25cfb02bf86761435a61a99740978d5e172275d12e7ad5b23d7803"
+      "keyid": "cc8dba54bed4d7fcee5e0999772712eb0f95fc88bc6eeeb4f3e75886384d7e27",
+      "sig": "ba04f62152f6f320eb1700462528317d33195a5502fccef576a469da47376d80c0f51cc0312c03bf354946c8b4828e43b5a96abe58a460f181b5b03ab531570f"
     }
   ]
 }
